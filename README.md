@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I’m @AlfredSimpson and I'd love to get to know you<br>👀 I’m interested in cybersecurity, information security, IT, and OSINT<br>🌱 I’m currently learning at the New Jersey Intitute of Technology, pursuing a BS in IT and an MS in Cyber Security & Privacy<br>👑 I'm the co-founder & President of the NJIT Information & Cybersecurity Club (NICC), former President, Webmaster, Program Manager, and PR Manager of WJTB Radio, and Senior Staff Writer at The Vetor.<br>💞️ I’m looking to collaborate on any projects related to the above<br>📫 You can reach me here, or on LinkedIn.
+ Hi, I’m @AlfredSimpson and I'd love to get to know you<br>👀 I’m interested in cybersecurity, information security, IT, and OSINT<br>🌱 I’m currently learning at the New Jersey Intitute of Technology, pursuing a BS in IT and an MS in Cyber Security & Privacy<br>👑 I'm the co-founder & President of the NJIT Information & Cybersecurity Club (NICC), former President, Webmaster, Program Manager, and PR Manager of WJTB Radio, and Senior Staff Writer at The Vetor.<br>💞️ I’m looking to collaborate on any projects related to the above<br>📫 You can reach me here, or on <a href="https://linkedin.com/in/AlfredHSimpson" target="_blank">LinkedIn</a>.
 
 
 ## 🌐 Socials:
