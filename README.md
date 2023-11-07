@@ -1,6 +1,7 @@
 # 💫 About Me:
  Hi, I’m Alfred Simpson and I'd love to get to know you<br>👀 I’m interested in cybersecurity, information security, IT, and OSINT<br>🌱 I’m currently learning at the New Jersey Intitute of Technology, pursuing a BS in IT and an MS in Cyber Security & Privacy<br>🏴You probably came here from a CTF challenge I created. <br>👑 I'm the co-founder & President of the NJIT Information & Cybersecurity Club (NICC), former President, Webmaster, Program Manager, and PR Manager of WJTB Radio, and Senior Staff Writer at The Vector.<br>💞️ I’m looking to collaborate on any projects related to the above<br>📫 You can reach me here, or on <a href="https://linkedin.com/in/AlfredHSimpson" target="_blank">LinkedIn</a>.
 
+[![wakatime](https://wakatime.com/badge/user/ecfc9821-557d-440a-9923-4024f62f0785.svg)](https://wakatime.com/@ecfc9821-557d-440a-9923-4024f62f0785)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Cyb0rgSw0rd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AlfredHSimpson) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alhsimpson) 
